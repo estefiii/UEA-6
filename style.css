@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+
+}
+
+.titulo {
+    color: #691a17;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+  } 
+
+  h2 {
+    font-size: 30px;
+    color: #810606;
+  }
+
+  .texto {
+    color: #ac1f1f;
+    font-size: 20px;
+  }
