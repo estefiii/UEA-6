@@ -63,7 +63,7 @@ function keyPressed(){
   
   if(key === 't') {imagenActual=imgT;}
   
-  if(key === 'y') {imagenActual=imgy;}
+  if(key === 'y') {imagenActual=imgY;}
   
   if(key === 'u') {imagenActual=imgU;}
   
