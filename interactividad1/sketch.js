@@ -19,7 +19,7 @@ function preload() {
 function setup() {
   createCanvas(windowWidth, windowHeight);
   textSize(50);
-  textAlign(CENTER, CENTER);
+  textAlign(TOP, CENTER);
   fill(255);
   text("Peliculas con teclado", width/2, height/2);
   
