@@ -1,11 +1,13 @@
 body {
-    background-color: antiquewhite;
+    background: linear-gradient(135deg, #ffc0cb, #f78fb3);
+    font-family: "Comic Sans MS", cursive;
+    text-shadow: 1px 1px 3px hotpink;
     margin: 40px;
 
 }
 
 .titulo {
-    color: #691a17;
+    color: #9c0b42;
     padding: 20px;
     text-align: center;
     font-size: 30px;
@@ -13,12 +15,13 @@ body {
 
   h2 {
     font-size: 25px;
-    color: #810606;
+    color: #9c0b42;
   }
 
   .texto {
-    color: #ac1f1f;
+    color: #6d0226;
     font-size: 20px;
+    text-align: center;
   }
 
   .espacio {

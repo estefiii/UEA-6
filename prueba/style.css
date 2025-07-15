@@ -1,0 +1,65 @@
+/* Fondo video tipo parallax */
+video.video-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  object-fit: cover;
+  z-index: -1;
+}
+
+/* Base Barbie gamer vibes */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Comic Neue', cursive;
+  background-color: #ffe4f2;
+  color: #fff;
+  text-shadow: 1px 1px 2px #ff69b4;
+}
+
+.contenido {
+  position: relative;
+  z-index: 1;
+  padding: 3rem;
+  background: rgba(122, 6, 64, 0.411);
+  border-radius: 20px;
+  max-width: 900px;
+  margin: 2rem auto;
+  backdrop-filter: blur(6px);
+}
+
+.titulo h1 {
+  text-align: center;
+  font-size: 3rem;
+  color: #fff;
+  text-shadow: 2px 2px 6px hotpink;
+}
+
+.subtitulos h2 {
+  font-size: 1.8rem;
+  color: #ffccff;
+  margin-top: 2rem;
+}
+
+.texto p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.texto b {
+  color: #ffebf7;
+}
+
+.espacio {
+  margin: 0 1rem;
+}
+
+img {
+  display: block;
+  margin: 1rem auto;
+  border: 4px dotted #ff99cc;
+  border-radius: 10px;
+}
