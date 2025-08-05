@@ -45,8 +45,9 @@ body {
 
 .texto p {
   font-size: 1.2rem;
-  line-height: 1.6;
+  line-height: 2;
   margin-bottom: 1.5rem;
+  text-align: justify;
 }
 
 .texto b {
