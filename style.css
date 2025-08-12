@@ -59,6 +59,15 @@ body {
 }
 
 img {
+  width: 48%;
+  height: auto;
+  display: inline-block;
+  margin: 1rem auto;
+  border: 4px dotted #ff99cc;
+  border-radius: 10px;
+}
+
+video {
   width: 100%;
   height: auto;
   display: block;
@@ -68,6 +77,7 @@ img {
 }
 
 a {
+  font-size: 2rem;
   color: rgb(105, 4, 54);
   text-decoration: none;
 }
